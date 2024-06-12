@@ -1,4 +1,5 @@
 ## graphQL
+<img width="1370" alt="Notes on graphQL" src="https://github.com/durgaprasad118/graphQL/assets/108184152/1681684e-ecc8-4706-ab07-4f6b5e6ba9eb">
 
 - query language for Apis (application programming interface) and a runtime for fulfilling those queries with your existing data
 
