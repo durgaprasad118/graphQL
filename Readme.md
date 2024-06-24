@@ -15,3 +15,5 @@
 ## Major differences between REST-and-GraphQL
 
 ![differences](https://www.mobilelive.ca/wp-content/uploads/2022/08/GraphQL_Image1.jpg)
+
+- this is markdown preview
